@@ -1,5 +1,4 @@
 replicaCount: 3
-
 image:
   repository: josephrodriguez/springboot-starterkit
   pullPolicy: Always
